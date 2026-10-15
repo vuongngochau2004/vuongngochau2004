@@ -1,5 +1,5 @@
 ### WELCOME TO MY PAGE 👋👋👋
-My name is Hau Vuong. I am a Backend & AI Engineer based in Da Nang, Vietnam, and I am open to remote roles. I am interested in the following topics: Backend Systems, LLM Applications & RAG, AI Agents (MCP).<br>
+My name is Hau Vuong. I am a Backend & AI Engineer based in Da Nang, Vietnam. I am interested in the following topics: Deep Learning for Computer Vision, LLM<br>
 
 ## 📫 How to reach me:
 
